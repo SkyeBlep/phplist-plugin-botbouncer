@@ -20,7 +20,7 @@ class BotBouncerPlugin extends phplistPlugin
     /*
      *  Inherited variables
      */
-    public $name = 'Bot Bouncer Plugin';
+    public $name = 'Bot Bouncer Plugin (SKYE FORK)';
     public $enabled = true;
     public $description = 'Check subscriber email addresses for spam using the Botbouncer class';
     public $authors = 'Duncan Cameron';
